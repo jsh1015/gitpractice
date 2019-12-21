@@ -29,7 +29,7 @@
 	<!-- .shop이 들어오면 실행하게함 -->
 	<servlet-mapping>
 		<servlet-name>shop3</servlet-name>
-		<url-pattern>*.shop</url-pattern>
+		<url-pattern>/</url-pattern>
 	</servlet-mapping>
 	<!-- 한글 설정 -->
 	<filter>
